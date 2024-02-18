@@ -34,14 +34,14 @@ The model (model.pkl) and TF-IDF vectorizer (vectorizer.pkl) are used for predic
 The text preprocessing includes:
 
 Lowercasing<br>
-Tokenization
-Removing non-alphanumeric characters
-Removing stopwords
-Applying stemming
-Dependencies
-Streamlit
-Scikit-learn
-NLTK
+Tokenization<br>
+Removing non-alphanumeric characters<br>
+Removing stopwords<br>
+Applying stemming<br>
+Dependencies<br>
+Streamlit<br>
+Scikit-learn<br>
+NLTK<br>
 
 
 ## Author : Naveen Poliasetty
