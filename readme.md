@@ -44,7 +44,6 @@ Scikit-learn
 NLTK
 
 
-## Author
-### Your Name
+## Author : Naveen Poliasetty
 
 
